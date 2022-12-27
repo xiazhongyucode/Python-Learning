@@ -7,4 +7,5 @@ Python学习
 
 我的笔记:
 
-https://docs.qq.com/doc/DZkR2VEF1VHVwR1Vw?&u=907804ab34874e45bca570ed2d76a419
+【腾讯文档】Python从入门到进阶
+https://docs.qq.com/doc/DZkR2VEF1VHVwR1Vw
