@@ -8,4 +8,8 @@ Python学习
 我的笔记:
 
 【腾讯文档】Python从入门到进阶
-https://docs.qq.com/doc/DZkR2VEF1VHVwR1Vw
+
+<p>
+<a href="https://docs.qq.com/doc/DZkR2VEF1VHVwR1Vw"></a>
+<img src="https://docs.gtimg.com/home/img/footer/logo-footer-78ea61.svg">
+</p>
