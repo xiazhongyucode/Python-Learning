@@ -11,7 +11,6 @@ itheima = 666
 print(Itheima)
 print(itheima)
 
-
 # 规则3：不可使用关键字
 # 错误的示例，使用了关键字： class = 1
 # 错误的示例，使用了关键字： def = 1
