@@ -63,7 +63,7 @@ timeline.add_schema(
     play_interval=1000,
     is_timeline_show=True,
     is_auto_play=True,
-    is_loop_play=False
+    is_loop_play=True
 )
 # 绘图
 timeline.render("1960-2019全球GDP前8国家.html")
