@@ -9,11 +9,11 @@ Python学习
 </a>
 </p>
 
-
-
 我的笔记:
 <p>
 <a href="https://docs.qq.com/doc/DZkR2VEF1VHVwR1Vw">
 <img src="https://docs.gtimg.com/home/img/footer/logo-footer-78ea61.svg" height="60"  alt="【腾讯文档】Python从入门到进阶">
 </a>
 </p>
+
+参考资料:Python编程:从入门到实践
