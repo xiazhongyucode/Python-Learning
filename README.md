@@ -16,4 +16,9 @@ Python学习
 </a>
 </p>
 
-参考资料:Python编程:从入门到实践
+参考资料:
+<p>
+<a href="https://www.ituring.com.cn/book/2784">
+<img src="https://file.ituring.com.cn/LargeCover/2008123a77c92b5a33e7" height="180" alt="Python编程:从入门到实践（第2版）">
+</a>
+</p>
